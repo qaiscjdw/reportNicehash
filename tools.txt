@@ -1,0 +1,5 @@
+arrow
+colorama
+requests
+bs4
+sys
